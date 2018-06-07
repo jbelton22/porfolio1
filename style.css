@@ -1,0 +1,30 @@
+html{
+  height:100%;
+  background-image:
+url('https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+background-size:cover;
+}
+
+#banner{
+  padding-top:22%;
+  font-family:'Pangolin',cursive;
+  font-size:35px;
+  display:flex;
+  justify-content:center;
+  color:#e0edff;
+}
+
+#heading{
+  height:100%;
+  font-family:'Open Sans Condensed', sans-serif;
+  display:flex;
+  justify-content:space-around;
+  color:#00688b;
+}
+
+h2 {
+  background: red;
+}
+.navbar {
+  display: flex;
+  justify-content:space-around;
